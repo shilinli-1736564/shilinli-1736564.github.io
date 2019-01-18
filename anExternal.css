@@ -1,0 +1,35 @@
+body {
+	background-color: #B1B479
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 3rem;
+  font-family: 'Permanent Marker', cursive;
+
+/*  transform: translate(-50%, -50%);
+*/}
+
+h1 {
+	text-align: center;
+	color: #5B622E
+	font-family: 'Noto Serif', serif;
+
+}
+
+p{
+	float: right;
+	font-size: 2rem;
+	font-family: Coiny;
+	color: #516E41;
+	border: 2px solid #4B4E2A;
+	border-radius: 10px;
+}
